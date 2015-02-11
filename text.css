@@ -1,0 +1,7 @@
+		P  { color: navy; font-weight: normal; font-size: 15px; line-height: 15px; font-family: verdana } 
+		
+		B  { color: navy; font-weight: bold; font-size: 15px; font-family: verdana }
+BLOCKQUOTE { color: navy; font-weight: normal; font-size: 15px; font-family: verdana }
+A:link { color: blue; font-weight: bold; font-size: 15px; font-family: verdana; text-decoration: none }
+		A:visited { color: #4a68d9; font-weight: bold; font-size: 15px; font-family: verdana; text-decoration: none }
+	    A:hover { color: #aaaaff; font-weight: bold; font-size: 15px; font-family: verdana; text-decoration: none }
